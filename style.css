@@ -1,0 +1,29 @@
+.heading {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    background-color: blue;
+    color: white;
+  }
+
+  .img-logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  .img-logo2{
+    padding-top: 1rem;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+  }
+ .bord{
+    border: 2px solid rgb(133, 222, 133);
+    
+    
+ }
+ 
